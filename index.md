@@ -24,7 +24,7 @@ I am co-organizing the [AI and Math seminar](https://ai-math-seminar.github.io/s
 ## Events
 - **[July 23 - 30, 2026]**: Attending the International Congress of Mathematics (ICM) in Philadelphia.
 - **[July 1, 2026]**: Joining Princeton University as an Associate Research Scholar.
-- **[June 1, 2026]**: Visiting Caltech to work with Dr. Sergei Gukov's group.
+- **[June 1, 2026]**: Visiting Caltech to work on RL in research math.
 - **[May 11-15, 2026]**: Attending the Formalization of Analysis workshop at ICERM, Providence, RI.
 - **[Apr 20, 2026]**: Case, Lin, Tyrell, Yuan and I release our preprint "Local and global conformal invariants of submanifolds"- https://arxiv.org/abs/2604.08372 (submitted). 
 - **[Apr 4-5, 2026]**: Attending the Southern California Geometric Analysis Seminar at the University of California at San Diego.
