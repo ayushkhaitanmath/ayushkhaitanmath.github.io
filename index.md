@@ -29,7 +29,7 @@ I am co-organizing the [AI and Math seminar](https://ai-math-seminar.github.io/s
 - **[Apr 28, 2026]**: "Computing renormalized curvature integrals on Poincaré–Einstein manifolds" gets published in Advances in Mathematics. 
 - **[Apr 20, 2026]**: Case, Lin, Tyrell, Yuan and I release our preprint "Local and global conformal invariants of submanifolds" (submitted). 
 - **[Apr 4-5, 2026]**: Attending the Southern California Geometric Analysis Seminar at the University of California at San Diego.
-- **[Apr 2, 2026]**: Nominated to the editorial board of the "Journal of Mathematics and Artificial Intelligence" (https://albanian-j-math.com/editors.html). 
+- **[Apr 2, 2026]**: Nominated to the editorial board of the "Journal of Mathematics and Artificial Intelligence". [Journal link](https://albanian-j-math.com/editors.html). 
 - **[Mar 28, 2026]**: Speaking at the AMS Special Session on Recent Results in Geometry and Topology at the Spring Eastern Sectional Meeting at Boston College.
 - **[Feb 8, 2026]**: Traveling to Caltech, Pasadena for a week as part of a SQuaRE grant research group with Jeffrey Case, Yueh-Ju Lin, Aaron Tyrell and Wei Yuan.
 - **[Jan 31, 2026]**: Talk at the Kerala School of Mathematics, India (Zoom). 
