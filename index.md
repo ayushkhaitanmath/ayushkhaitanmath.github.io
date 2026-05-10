@@ -22,6 +22,8 @@ You can access my **Research**, **Publications**, **Teaching**, and **Research g
 I am co-organizing the [AI and Math seminar](https://ai-math-seminar.github.io/seminar/) at Rutgers.
 
 ## Events
+- **[July 1, 2026]**: Joining Princeton University's AI and Math group as an Associate Research Scholar.
+- **[June 1, 2026]**: Visiting Caltech to work with Sergei Gukov's group.
 - **[May 11-15, 2026]**: Attending the Formalization of Analysis workshop at ICERM, Providence, RI.
 - **[Apr 4-5, 2026]**: Attending the Southern California Geometric Analysis Seminar at the University of California at San Diego.
 - **[Mar 28, 2026]**: Speaking at the AMS Special Session on Recent Results in Geometry and Topology at the Spring Eastern Sectional Meeting at Boston College.
