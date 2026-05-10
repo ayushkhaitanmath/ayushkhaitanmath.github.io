@@ -9,7 +9,8 @@ title: Home
 
 # Ayush Khaitan
 
-Hill Assistant Professor, Rutgers University, New Brunswick  
+Associate Research Scholar, Princeton University (incoming)
+Hill Assistant Professor, Rutgers University, New Brunswick (2023-2026)
 
 If you think reinforcement learning (RL) or other AI-guided search techniques could help with a research-level mathematics problem, feel free to reach out. We’ve had some success on a small number of problems recently, and I’d be happy to discuss further.
 
@@ -31,6 +32,7 @@ I am co-organizing the [AI and Math seminar](https://ai-math-seminar.github.io/s
 - **[Apr 4-5, 2026]**: Attending the Southern California Geometric Analysis Seminar at the University of California at San Diego.
 - **[Apr 2, 2026]**: Nominated to the editorial board of the "Journal of Mathematics and Artificial Intelligence". [Journal link](https://albanian-j-math.com/editors.html). 
 - **[Mar 28, 2026]**: Speaking at the AMS Special Session on Recent Results in Geometry and Topology at the Spring Eastern Sectional Meeting at Boston College.
+- **[March 1,2026]**: Early tester for Google DeepMind's "AI Co-Mathematician". See [this](https://arxiv.org/pdf/2605.06651) research paper by Google DeepMind. 
 - **[Feb 8, 2026]**: Traveling to Caltech, Pasadena for a week as part of a SQuaRE grant research group with Jeffrey Case, Yueh-Ju Lin, Aaron Tyrell and Wei Yuan.
 - **[Jan 31, 2026]**: Talk at the Kerala School of Mathematics, India (Zoom). 
 - **[Jan 19, 2026]**: Teaching a Lean-based Intro to Proofs course in Spring 2026.
