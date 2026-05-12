@@ -70,7 +70,7 @@ permalink: /publications
   <article class="pub">
     <h2 class="pub__title"><em>GJMS operators of smooth metric measure spaces</em></h2>
     <div class="pub__authors"><strong>Authors:</strong> Ayush Khaitan</div>
-    <div class="pub__meta">Accepted at Journal of Geometric Analysis &nbsp;•&nbsp; <a href="https://arxiv.org/abs/2203.04719">arXiv:2203.04719</a></div>
+    <div class="pub__meta">Accepted at Journal of Geometric Analysis &nbsp;•&nbsp; <a href="https://link.springer.com/epdf/10.1007/s12220-026-02466-1?sharing_token=ozusi97-JFONwxa-nMNQD_e4RwlQNchNByi7wbcMAY43JlAUhr1u8GrIZ9U_EJ8i8bMOAFvRXhec1z4izu0_xlmOPCK8GWo6iV45qzTRhzaj8exrl7AXK2jfpe0x4Iojk7jwcnAYWLujrnuOr6BMSJaOJNxVwJx4f67qX1RCYEc%3D">Journal link</a></div>
     <div class="pub__summary">
       We construct GJMS operators for smooth metric measure spaces, and prove several properties.
     </div>
