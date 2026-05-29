@@ -20,7 +20,7 @@ You can find my resume <a href= "https://ayushkhaitanrutgers.github.io/resume_ap
 
 You can access my **Research**, **Publications**, **Teaching**, and **Research group** pages using the tabs above. 
 
-I made a [website](https://ai-tools-rutgers.github.io/) to help Rutgers academics, with no prior programming experience, run code using GPUs, as well as access other AI tools. 
+Here is a [website](https://ai-tools-rutgers.github.io/) to help Rutgers academics, with no prior programming experience, run code using GPUs, as well as access other AI tools. 
 
 I was a co-organizer of the [AI and Math seminar](https://ai-math-seminar.github.io/seminar/) at Rutgers. 
 
