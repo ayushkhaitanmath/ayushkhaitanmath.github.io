@@ -27,7 +27,6 @@ I was a co-organizer of the [AI and Math seminar](https://ai-math-seminar.github
 ## Events
 - **[July 23 - 30, 2026]**: Attending the International Congress of Mathematics (ICM) in Philadelphia.
 - **[July 1, 2026]**: Joining Princeton University as an Associate Research Scholar.
-- **[June 1, 2026]**: Visiting Caltech to work on RL in research math.
 - **[May 11-15, 2026]**: Attending the Formalization of Analysis workshop at ICERM, Providence, RI.
 - **[Apr 28, 2026]**: "Computing renormalized curvature integrals on Poincaré–Einstein manifolds" gets published in Advances in Mathematics. 
 - **[Apr 20, 2026]**: Case, Lin, Tyrell, Yuan and I release our preprint "Local and global conformal invariants of submanifolds" (submitted). 
