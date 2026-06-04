@@ -18,7 +18,7 @@ Email: **ak5556@princeton.edu**
 
 You can find my resume <a href= "https://ayushkhaitanrutgers.github.io/resume_apr20.pdf">here</a>. 
 
-You can access my **Research**, **Publications**, **Teaching**, and **Research group** pages using the tabs above. 
+You can access my **Research** and **Publications** pages using the tabs above. 
 
 Here is a [website](https://ai-tools-rutgers.github.io/) to help Rutgers academics, with no prior programming experience, run code using GPUs, as well as access other AI tools. 
 
