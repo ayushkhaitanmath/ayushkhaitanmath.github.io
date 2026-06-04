@@ -25,7 +25,7 @@ Here is a [website](https://ai-tools-rutgers.github.io/) to help Rutgers academi
 I was a co-organizer of the [AI and Math seminar](https://ai-math-seminar.github.io/seminar/) at Rutgers. 
 
 ## Events
-- **[July 23 - 30, 2026]**: Attending the International Congress of Mathematics (ICM) in Philadelphia.
+- **[July 23 - 30, 2026]**: Attending the International Congress of Mathematics (ICM) in Philadelphia. Supported by the ICM 2026 Graduate Student and Early Career Travel Grant program, funded by National Science Foundation (NSF) award #2620718.
 - **[July 1, 2026]**: Joining Princeton University as an Associate Research Scholar.
 - **[May 11-15, 2026]**: Attending the Formalization of Analysis workshop at ICERM, Providence, RI.
 - **[Apr 28, 2026]**: "Computing renormalized curvature integrals on Poincaré–Einstein manifolds" gets published in Advances in Mathematics. 
