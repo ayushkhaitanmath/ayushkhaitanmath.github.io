@@ -9,12 +9,12 @@ title: Home
 
 # Ayush Khaitan
 
-Associate Research Scholar, Princeton University (incoming)  
+Associate Research Scholar, Princeton University (2026-)  
 Hill Assistant Professor, Rutgers University, New Brunswick (2023-2026)
 
 If you think reinforcement learning (RL) or other AI-guided search techniques could help with a research-level mathematics problem, feel free to reach out. We’ve had some success on a small number of problems recently, and I’d be happy to discuss further.
 
-Email: **ayush.khaitan@rutgers.edu**
+Email: **ak5556@princeton.edu**
 
 You can find my resume <a href= "https://ayushkhaitanrutgers.github.io/resume_apr20.pdf">here</a>. 
 
