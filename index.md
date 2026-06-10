@@ -25,6 +25,7 @@ Here is a [website](https://ai-tools-rutgers.github.io/) to help Rutgers academi
 I was a co-organizer of the [AI and Math seminar](https://ai-math-seminar.github.io/seminar/) at Rutgers. 
 
 ## Events
+- **[Jun 10, 2026]**: Recipient of the AMS-Simons Travel Grant (Geometric Analysis). 
 - **[July 23 - 30, 2026]**: Attending the International Congress of Mathematics (ICM) in Philadelphia. Supported by the ICM 2026 Graduate Student and Early Career Travel Grant program.
 - **[July 1, 2026]**: Joining Princeton University as an Associate Research Scholar.
 - **[May 11-15, 2026]**: Attending the Formalization of Analysis workshop at ICERM, Providence, RI.
