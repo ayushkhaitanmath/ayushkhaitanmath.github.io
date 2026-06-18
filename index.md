@@ -25,9 +25,9 @@ Here is a [website](https://ai-tools-rutgers.github.io/) to help Rutgers academi
 I was a co-organizer of the [AI and Math seminar](https://ai-math-seminar.github.io/seminar/) at Rutgers. 
 
 ## Events
-- **[Jun 10, 2026]**: Recipient of the AMS-Simons Travel Grant (Geometric Analysis). 
-- **[July 23 - 30, 2026]**: Attending the International Congress of Mathematics (ICM) in Philadelphia. Supported by the ICM 2026 Graduate Student and Early Career Travel Grant program.
-- **[July 1, 2026]**: Joining Princeton University as an Associate Research Scholar.
+- **[Jun 10, 2026]**: Recipient of the AMS-Simons Travel Grant, 2026-2028 (Geometric Analysis). 
+- **[July 23 - 30, 2026]**: Attending the International Congress of Mathematics (ICM) in Philadelphia. Supported by the ICM 2026 Early Career Travel Grant.
+- **[July 1, 2026]**: Joining Princeton University as an Associate Research Scholar, 2026-.
 - **[May 11-15, 2026]**: Attending the Formalization of Analysis workshop at ICERM, Providence, RI.
 - **[Apr 28, 2026]**: "Computing renormalized curvature integrals on Poincaré–Einstein manifolds" gets published in Advances in Mathematics. 
 - **[Apr 20, 2026]**: Case, Lin, Tyrell, Yuan and I release our preprint "Local and global conformal invariants of submanifolds" (submitted). 
