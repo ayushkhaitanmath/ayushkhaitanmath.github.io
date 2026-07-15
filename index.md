@@ -9,12 +9,10 @@ title: Home
 
 # Ayush Khaitan
 
-Associate Research Scholar, Princeton University (2026-)  
-Hill Assistant Professor, Rutgers University, New Brunswick (2023-2026)
+Associate Research Scholar, **Princeton University** (2026-)  
+Hill Assistant Professor, **Rutgers University, New Brunswick** (2023-2026)
 
-If you think reinforcement learning (RL) or other AI-guided search techniques could help with a research-level mathematics problem, feel free to reach out. We’ve had some success on a small number of problems recently, and I’d be happy to discuss further.
-
-Email: **ayush.khaitan@princeton.edu**
+Email: ayush.khaitan@princeton.edu
 
 You can find my resume <a href= "https://ayushkhaitanrutgers.github.io/resume_apr20.pdf">here</a>. 
 
@@ -27,7 +25,6 @@ I was a co-organizer of the [AI and Math seminar](https://ai-math-seminar.github
 ## Events
 - **[Jun 10, 2026]**: Recipient of the AMS-Simons Travel Grant, 2026-2028 (Geometric Analysis). 
 - **[July 23 - 30, 2026]**: Attending the International Congress of Mathematics (ICM) in Philadelphia. Supported by the ICM 2026 Early Career Travel Grant.
-- **[July 1, 2026]**: Joining Princeton University as an Associate Research Scholar, 2026-.
 - **[May 11-15, 2026]**: Attending the Formalization of Analysis workshop at ICERM, Providence, RI.
 - **[Apr 28, 2026]**: "Computing renormalized curvature integrals on Poincaré–Einstein manifolds" gets published in Advances in Mathematics. 
 - **[Apr 20, 2026]**: Case, Lin, Tyrell, Yuan and I release our preprint "Local and global conformal invariants of submanifolds" (submitted). 
