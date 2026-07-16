@@ -9,12 +9,9 @@ title: Home
 
 # Ayush Khaitan
 
-Associate Research Scholar, **Princeton University** (2026-)  
-Hill Assistant Professor, **Rutgers University, New Brunswick** (2023-2026)
+I am currently an Associate Research Scholar at Princeton University (2026-). I was previously a Hill Assistant Professor at Rutgers University (2023-2026). I got my PhD in Mathematics at Penn State University. You can find my resume <a href= "https://ayushkhaitanrutgers.github.io/resume_apr20.pdf">here</a>. 
 
 Email: ayush.khaitan@princeton.edu
-
-You can find my resume <a href= "https://ayushkhaitanrutgers.github.io/resume_apr20.pdf">here</a>. 
 
 You can access my **Research** and **Publications** pages using the tabs above. 
 
