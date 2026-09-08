@@ -11,7 +11,7 @@ title: Home
 
 I am an Associate Research Scholar at Princeton University (2026–). Before joining Princeton, I was a Hill Assistant Professor at Rutgers University (2023–2026).
 
-I completed my PhD in Mathematics at Penn State University, where my doctoral research was supported by a Pritchard dissertation fellowship. Before that, I earned a B.E. in mechanical engineering at BITS Pilani, India, and completed high school in Singapore as a Keppel Magus Scholar from India.
+I completed my PhD in Mathematics at Penn State University, where my doctoral research was supported by a Pritchard dissertation fellowship. Before that, I earned a B.E. in mechanical engineering at BITS Pilani, India.
 
 [Resume](https://ayushkhaitanrutgers.github.io/resume_apr20.pdf) · [ayush.khaitan@princeton.edu](mailto:ayush.khaitan@princeton.edu)
 
