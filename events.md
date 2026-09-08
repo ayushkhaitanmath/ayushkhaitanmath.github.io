@@ -8,8 +8,8 @@ permalink: /events
 
 ## Upcoming
 
-- Travels to Harvard CMSA and NeurIPS (Atlanta).
-- Talk at Notre Dame.
+- Travels to Harvard CMSA, NeurIPS (Atlanta) and SLMath.
+- Talks at Princeton PLI and Notre Dame.
 
 ## Previous
 
