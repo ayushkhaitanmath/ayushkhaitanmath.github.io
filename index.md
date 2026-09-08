@@ -9,7 +9,11 @@ title: Home
 
 # Ayush Khaitan
 
-I am currently an Associate Research Scholar at Princeton University (2026-). I was previously a Hill Assistant Professor at Rutgers University (2023-2026). I got my PhD in Mathematics at Penn State University. You can find my resume <a href= "https://ayushkhaitanrutgers.github.io/resume_apr20.pdf">here</a>. 
+I am currently an Associate Research Scholar at Princeton University (2026-). I was previously a Hill Assistant Professor at Rutgers University (2023-2026). I got my PhD in Mathematics at Penn State University, where I got the Pritchard dissertation fellowship for my research. 
+
+Previously, I completed a B.E. in mechanical engineering at BITS, Pilani, India and high school in Singapore as a Keppel Magus Scholar from India. You can find my resume <a href= "https://ayushkhaitanrutgers.github.io/resume_apr20.pdf">here</a>. 
+
+My research is partially supported by a DARPA AIQ grant and an AMS-Simons Travel grant.
 
 Email: ayush.khaitan@princeton.edu
 
