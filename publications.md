@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications
 ---
 
-<!-- Publications (clean, white, un-numbered, always-visible summaries) -->
+<!-- Publications with always-visible summaries -->
 <section id="publications" class="pubs">
 
   <h1 class="pubs__title">Publications</h1>
@@ -88,19 +88,19 @@ permalink: /publications
 
 </section>
 
-<!-- Page-local styles (white / off-white, calm, crisp) -->
+<!-- Page-local styles using the shared site palette -->
 <style>
   /* Palette + spacing */
   :root{
-    --bg: #ffffff;           /* page background (white) */
-    --surface: #ffffff;      /* article surface */
-    --t-ink: #0f172a;        /* title/body text */
-    --t-mute: #475569;       /* secondary text */
-    --t-soft: #55627a;       /* summary text */
-    --line: #e6e8ee;         /* light rule/border */
-    --chip: #f7f8fc;         /* off-white for the summary box */
-    --link: #3347c2;         /* relaxed indigo */
-    --link-underline: rgba(51,71,194,.35);
+    --bg: var(--site-background);           /* page background */
+    --surface: var(--site-background);      /* article surface */
+    --t-ink: var(--site-ink);        /* title/body text */
+    --t-mute: var(--site-muted);       /* secondary text */
+    --t-soft: var(--site-muted);       /* summary text */
+    --line: var(--site-line);         /* light rule/border */
+    --chip: var(--site-surface);         /* off-white for the summary box */
+    --link: var(--site-link);         /* muted teal */
+    --link-underline: var(--site-link-underline);
     --r: 14px;               /* rounded radii */
     --x: 18px;               /* horizontal rhythm */
     --y: 14px;               /* vertical rhythm */

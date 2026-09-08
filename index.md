@@ -9,54 +9,14 @@ title: Home
 
 # Ayush Khaitan
 
-I am currently an Associate Research Scholar at Princeton University (2026-). I was previously a Hill Assistant Professor at Rutgers University (2023-2026). I got my PhD in Mathematics at Penn State University, where I got the Pritchard dissertation fellowship for my research. 
+I am an Associate Research Scholar at Princeton University (2026–). Before joining Princeton, I was a Hill Assistant Professor at Rutgers University (2023–2026).
 
-Previously, I completed a B.E. in mechanical engineering at BITS, Pilani, India and high school in Singapore as a Keppel Magus Scholar from India. You can find my resume <a href= "https://ayushkhaitanrutgers.github.io/resume_apr20.pdf">here</a>. 
+I completed my PhD in Mathematics at Penn State University, where my doctoral research was supported by a Pritchard dissertation fellowship. Before that, I earned a B.E. in mechanical engineering at BITS Pilani, India, and completed high school in Singapore as a Keppel Magus Scholar from India.
+
+[Resume](https://ayushkhaitanrutgers.github.io/resume_apr20.pdf) · [ayush.khaitan@princeton.edu](mailto:ayush.khaitan@princeton.edu)
+
+The tabs above link to my Research, Publications, and Events pages.
+
+I previously co-organized the [AI and Math seminar](https://ai-math-seminar.github.io/seminar/) at Rutgers. This [guide to AI tools](https://ai-tools-rutgers.github.io/) helps Rutgers academics with no prior programming experience run code on GPUs and access other AI tools.
 
 My research is partially supported by a DARPA AIQ grant and an AMS-Simons Travel grant.
-
-Email: ayush.khaitan@princeton.edu
-
-You can access my **Research** and **Publications** pages using the tabs above. 
-
-Here is a [website](https://ai-tools-rutgers.github.io/) to help Rutgers academics, with no prior programming experience, run code using GPUs, as well as access other AI tools. 
-
-I was a co-organizer of the [AI and Math seminar](https://ai-math-seminar.github.io/seminar/) at Rutgers. 
-
-## Events
-- **[Jun 10, 2026]**: Recipient of the AMS-Simons Travel Grant, 2026-2028 (Geometric Analysis). 
-- **[July 23 - 30, 2026]**: Attending the International Congress of Mathematics (ICM) in Philadelphia. Supported by the ICM 2026 Early Career Travel Grant.
-- **[May 11-15, 2026]**: Attending the Formalization of Analysis workshop at ICERM, Providence, RI.
-- **[Apr 28, 2026]**: "Computing renormalized curvature integrals on Poincaré–Einstein manifolds" gets published in Advances in Mathematics. 
-- **[Apr 20, 2026]**: Case, Lin, Tyrell, Yuan and I release our preprint "Local and global conformal invariants of submanifolds" (submitted). 
-- **[Apr 4-5, 2026]**: Attending the Southern California Geometric Analysis Seminar at the University of California at San Diego.
-- **[Apr 2, 2026]**: Nominated to the editorial board of the "Journal of Mathematics and Artificial Intelligence". [Journal link](https://albanian-j-math.com/editors.html). 
-- **[Mar 28, 2026]**: Speaking at the AMS Special Session on Recent Results in Geometry and Topology at the Spring Eastern Sectional Meeting at Boston College.
-- **[March 1,2026]**: Early tester for Google DeepMind's "AI Co-Mathematician". See [this](https://arxiv.org/pdf/2605.06651) research paper by Google DeepMind. 
-- **[Feb 8, 2026]**: Traveling to Caltech, Pasadena for a week as part of a SQuaRE grant research group with Jeffrey Case, Yueh-Ju Lin, Aaron Tyrell and Wei Yuan.
-- **[Jan 31, 2026]**: Talk at the Kerala School of Mathematics, India (Zoom). 
-- **[Jan 19, 2026]**: Teaching a Lean-based Intro to Proofs course in Spring 2026.
-- **[Jan 15, 2026]**: Presentation at Stanford University, CA (Zoom). 
-- **[Jan 10, 2026]**: My first solo paper in print! "Weighted ambient metric for manifolds with density" gets published in Advances in Mathematics. [Journal link](https://www.sciencedirect.com/science/article/pii/S0001870826000095)
-- **[Jan 10, 2026]**: The paper "Weighted GJMS operators" gets accepted at the Journal of Geometric Analysis.
-- **[Dec 15, 2025]**: The paper "Weighted renormalized volume coefficients" gets accepted at Differential Geometry and its Applications.
-- **[Dec 9 2025]**: Gave a guest lecture in Dr. Abhinav Verma's Machine Learning class at Penn State University, PA.
-- **[Nov 5 2025]**: Spoke at the AI and Math seminar, Rutgers University, New Brunswick, NJ.
-- **[Oct 31 2025]**: Spoke at the AI Seminar, Simon Fraser University, CA.
-- **[Oct 23 2025]**: Spoke at the Brown University Geometric Analysis Seminar, Providence, RI.
-- **[Oct 15 2025]**: Terence Tao [highlights our AI tool](https://mathstodon.xyz/@tao/115379172603958618) on his Mastodon profile!
-- **[Oct 14 2025]**: Vijay Ganesh and I upload our [preprint](https://arxiv.org/abs/2510.12350) "O-Forge: An LLM + Computer Algebra Framework for Asymptotic Analysis" on arXiv.
-- **[Oct 9 2025]**: Gave a talk at the CUNY Geometric Analysis Seminar, City University of New York, NY.
-- **[May 17 2025]**: Ishan Mata, Bhargav Narayanan and I upload [our paper](https://arxiv.org/abs/2505.12178) "Elementary symmetric polynomials under the fixed point measure" to arXiv. 
-- **[Apr 1 2025]**: Gave a talk at the Geometry and Topology seminar, University of Washington, St Louis.
-- **[Dec 19 2024]**: Jeffrey Case, Yueh-Ju Lin, Aaron Tyrell, Wei Yuan and I upload [our paper](https://arxiv.org/abs/2404.11319) "Computing renormalized curvature integrals on Poincaré-Einstein manifolds" onto arXiv.
-- **[Mar 2025]**: Gave a talk at the special session on geometric analysis and PDEs, AMS Eastern Sectional Meeting, Hartford, CT.
-- **[Jan 6 2025]**: Organized a panel on AI and Math at the JMM, 2025 with Swarat Chaudhuri and Amitayush Thakur.
-- **[Oct 2024]**: Gave a talk at the Colloquium, Rutgers University, Newark.
-- **[Oct 2023]**: Gave a talk at the Geometric Analysis seminar, IIT Bombay.
-- **[Oct 2023]**: Gave a talk at the Nonlinear Analysis Seminar, Rutgers University.
-- **[Oct 2023]**: Gave a talk at the Geometry/Topology seminar, Stony Brook University.
-- **[Sep 2023]**: Gave a talk at the Geometric Analysis Seminar, Rutgers University.
-- **[Feb 2023]**: Gave a talk at the Geometry, Topology and Dynamical Systems seminar, University of Texas at Dallas.
-- **[Nov 2022]**: Gave a talk at the Geometry Luncheon seminar, Penn State University.
-- **[Mar 2022]**: Gave a talk at the Geometry, Topology and Dynamical Systems seminar, University of Texas at Dallas.

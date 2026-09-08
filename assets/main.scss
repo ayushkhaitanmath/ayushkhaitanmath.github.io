@@ -1,0 +1,22 @@
+---
+---
+
+// A warm paper background with quiet, high-contrast text and teal links.
+$background-color: #f6f4ef;
+$text-color: #2c3533;
+$brand-color: #32665f;
+$grey-color: #5f6a65;
+$grey-color-light: #dcded6;
+$grey-color-dark: #39443f;
+
+@import "minima";
+
+:root {
+  --site-background: #{$background-color};
+  --site-ink: #{$text-color};
+  --site-muted: #52615b;
+  --site-line: #{$grey-color-light};
+  --site-surface: #efeee7;
+  --site-link: #{$brand-color};
+  --site-link-underline: rgba(50, 102, 95, .35);
+}

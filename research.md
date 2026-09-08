@@ -31,12 +31,12 @@ permalink: /research
 
 <style>
   :root{
-    --bg: #ffffff;
-    --ink: #0f172a;
-    --mute: #475569;
-    --soft: #55627a;
-    --line: #e6e8ee;
-    --chip: #f7f8fc;
+    --bg: var(--site-background);
+    --ink: var(--site-ink);
+    --mute: var(--site-muted);
+    --soft: var(--site-muted);
+    --line: var(--site-line);
+    --chip: var(--site-surface);
     --r: 14px;
   }
 
@@ -59,9 +59,9 @@ permalink: /research
   }
 
   .card__body a{
-    color: #3347c2;
+    color: var(--site-link);
     text-decoration: none;
-    border-bottom: 1px dotted rgba(51,71,194,.35);
+    border-bottom: 1px dotted var(--site-link-underline);
   }
   .card__body a:hover{ border-bottom-color: transparent; }
 
