@@ -9,7 +9,7 @@ title: Home
 
 # Ayush Khaitan
 
-I am an Associate Research Scholar at Princeton University (2026–). Before joining Princeton, I was a Hill Assistant Professor at Rutgers University (2023–2026).
+I am an Associate Research Scholar at Princeton University (2026–2029). Before joining Princeton, I was a Hill Assistant Professor at Rutgers University (2023–2026).
 
 I completed my PhD in Mathematics at Penn State University, where my doctoral research was supported by a Pritchard dissertation fellowship. Before that, I earned a B.E. in mechanical engineering at BITS Pilani, India.
 

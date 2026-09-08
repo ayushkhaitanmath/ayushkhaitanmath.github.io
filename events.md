@@ -6,6 +6,13 @@ permalink: /events
 
 # Events
 
+## Upcoming
+
+- Travels to Harvard CMSA and NeurIPS (Atlanta).
+- Talk at Notre Dame.
+
+## Previous
+
 - **[Jun 10, 2026]**: Recipient of the AMS-Simons Travel Grant, 2026-2028 (Geometric Analysis). 
 - **[July 23 - 30, 2026]**: Attending the International Congress of Mathematics (ICM) in Philadelphia. Supported by the ICM 2026 Early Career Travel Grant.
 - **[May 11-15, 2026]**: Attending the Formalization of Analysis workshop at ICERM, Providence, RI.
