@@ -12,7 +12,6 @@ theme: minima   # or whatever theme you currently use
 # Navigation / header pages
 header_pages:
   - index.md
-  - research.md
   - publications.md
   - events.md
 
