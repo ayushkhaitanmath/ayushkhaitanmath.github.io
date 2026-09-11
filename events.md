@@ -9,7 +9,7 @@ permalink: /events
 ## Upcoming
 
 - Travels to Harvard CMSA, NeurIPS (Atlanta) and SLMath.
-- Talks at Princeton PLI and Notre Dame.
+- Talks at Princeton PLI, Notre Dame, Stony Brook and Columbia.
 
 ## Previous
 
