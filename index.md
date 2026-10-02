@@ -13,7 +13,7 @@ I am a Peretsman Scully Associate Research Scholar at Princeton University (2026
 
 I completed my PhD in Mathematics at Penn State University, where my doctoral research was supported by a Pritchard dissertation fellowship. Before that, I earned a B.E. in mechanical engineering at BITS Pilani, India.
 
-[Resume](https://ayushkhaitanrutgers.github.io/resume_apr20.pdf) · [ayush.khaitan@princeton.edu](mailto:ayush.khaitan@princeton.edu)
+[Resume]({{ '/resume-oct2.pdf' | relative_url }}) · [ayush.khaitan@princeton.edu](mailto:ayush.khaitan@princeton.edu)
 
 I co-organize an AI and Math seminar at Princeton. I previously co-organized the [AI and Math seminar](https://ai-math-seminar.github.io/seminar/) at Rutgers. 
 
