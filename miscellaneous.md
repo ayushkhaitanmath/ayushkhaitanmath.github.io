@@ -6,6 +6,13 @@ permalink: /miscellaneous
 
 # Miscellaneous
 
+## Favorite books
+
+I find it very meaningful to read the classics, like Tolstoy, Dostoevsky and Shakespeare, as well as blogs like [Astralcodexten](https://www.astralcodexten.com/) and [Numb at the Lodge](https://samkriss.substack.com/). 
+
+Always happy to get recommendations!
+
+
 ## Academic harrassment
 
 Academic harrassment is unfortunately a reality. It can take the form of faculty member, who has power over you, trying to steal or co-opt your research, making racial/personal comments, lying/misleading you about your work, emotional or sexual harrassment, etc. 
