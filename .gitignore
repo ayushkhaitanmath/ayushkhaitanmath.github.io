@@ -1,0 +1,9 @@
+# Local editor and macOS files
+.DS_Store
+.history/
+
+# Generated Jekyll files
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
