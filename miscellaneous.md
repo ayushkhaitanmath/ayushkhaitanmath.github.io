@@ -8,7 +8,7 @@ permalink: /miscellaneous
 
 ## Academic harrassment
 
-Academic harrassment is unfortunately a reality. It can take the form of faculty member, who has power over you, trying to steal or co-opt your research, making racial/personal comments, lying/misleading you about your own work, emotional or sexual harrassment, etc. 
+Academic harrassment is unfortunately a reality. It can take the form of faculty member, who has power over you, trying to steal or co-opt your research, making racial/personal comments, lying/misleading you about your work, emotional or sexual harrassment, etc. 
 
 Many students, including myself, have faced some form of the above, and it can be a uniquely debilitating and traumatic experience, both personally and professionally. I have been extremely lucky to get helpful and amazing mentors who could support and guide me, and I would like to return that favor by offering my help and advice in the same regard. 
 
