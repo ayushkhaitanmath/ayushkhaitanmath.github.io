@@ -1,12 +1,12 @@
 ---
 layout: default
-title: miscellaneous
+title: Miscellaneous
 permalink: /miscellaneous
 ---
 
-#Miscellaneous
+# Miscellaneous
 
-##Academic harrassment
+## Academic harrassment
 
 Academic harrassment is unfortunately a reality. It can take the form of faculty member, who has power over you, trying to steal or co-opt your research, making racial/personal comments, lying/misleading you about your own work, emotional or sexual harrassment, etc. 
 
