@@ -12,7 +12,7 @@ If you're a student that has taken a class from me either at Penn State or at Ru
 
 ## Transitioning to AI and Math
 
-I got my PhD in geometric analysis, and now work at the intersection of AI and Math, and geometry. If you're interested in transitioning to AI and Math as well, feel free to email me, and I'll be happy to talk about my journey as well as several things that I learned along the way. 
+I got my PhD in geometric analysis, and now work in geometry as well as AI and Math. If you're interested in transitioning to AI and Math as well, feel free to email me, and I'll be happy to talk about my journey as well as several things that I learned along the way. 
 
 ## Reading
 
