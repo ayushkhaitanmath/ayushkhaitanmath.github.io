@@ -9,9 +9,11 @@ title: Home
 
 # Ayush Khaitan
 
-I am a Peretsman Scully Associate Research Scholar at Princeton University (2026–2029). Before joining Princeton, I was a Hill Assistant Professor at Rutgers University (2023–2026).
+I am a Peretsman Scully Associate Research Scholar at Princeton University. Before joining Princeton, I was a Hill Assistant Professor at Rutgers University.
 
-I completed my PhD in Mathematics at Penn State University, where my doctoral research was supported by a Pritchard dissertation fellowship. Before that, I earned a B.E. in mechanical engineering at BITS Pilani, India.
+I completed my PhD in Mathematics at Penn State University, where my doctoral research was supported by a Pritchard dissertation fellowship. Before that, I earned a B.E. in mechanical engineering at BITS Pilani, India, and an IB Diploma at SJI International, Singapore. 
+
+Needless to say, I'm incredibly grateful to all of these places. 
 
 [Resume]({{ '/resume-oct2.pdf' | relative_url }}) · [ayush.khaitan@princeton.edu](mailto:ayush.khaitan@princeton.edu)
 
@@ -19,4 +21,4 @@ I co-organize an AI and Math seminar at Princeton. I previously co-organized the
 
 This [guide to AI tools](https://ai-tools-rutgers.github.io/) helps Rutgers academics with no prior programming experience run code on GPUs and access other AI tools.
 
-My research is partially supported by a DARPA AIQ grant and an AMS-Simons Travel grant.
+My research is partially supported by a DARPA expMath grant and an AMS-Simons Travel grant.
