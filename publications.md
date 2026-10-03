@@ -9,7 +9,16 @@ permalink: /publications
 
   <h1 class="pubs__title">Publications</h1>
 
-  <!-- Paper: LLM–CAS -->
+  <!-- Paper: Poincaré conjecture formalization -->
+  <article class="pub">
+    <h2 class="pub__title"><em>A Lean Formalization of the Hamilton–Perelman Proof of the Three-Dimensional Poincaré Conjecture</em></h2>
+    <div class="pub__authors"><strong>Authors:</strong> <a href="https://qinziyang.com/">Ziyang Qin</a>, Yuan Liao, Ayush Khaitan, <a href="https://mathweb.ucsd.edu/~bechow/">Bennett Chow</a></div>
+    <div class="pub__meta">Preprint, 2026 &nbsp;•&nbsp; <a href="https://arxiv.org/abs/2609.33842v1">arXiv:2609.33842</a></div>
+    <div class="pub__summary">
+      We formalize the smooth three-dimensional Poincaré conjecture, together with the Moise smoothing theorem, yielding the topological three-dimensional Poincaré conjecture. The smooth proof follows the Hamilton--Perelman route through Ricci flow with surgery and finite-time extinction.
+    </div>
+  </article>
+
   <article class="pub">
     <h2 class="pub__title"><em>An LLM–CAS framework for proving asymptotic inequalities</em></h2>
     <div class="pub__authors"><strong>Authors:</strong> Ayush Khaitan, <a href="https://www.cc.gatech.edu/people/vijay-ganesh">Vijay Ganesh</a></div>
