@@ -12,9 +12,9 @@ If you're a student that has taken a class from me either at Penn State or at Ru
 
 ## Transitioning to AI and Math
 
-I got my PhD in geometric analysis, and now work in both geometry and AI and Math. If you're interested in transitioning to AI and Math as well, feel free to email me, and I'll be happy to talk about my journey as well as several things that I learned along the way. 
+I got my PhD in geometric analysis, and now work in both AI and Math and geometry (several of my projects involve solving and formalizing problems in geometry using AI/computational tools). If you're interested in transitioning to AI and Math as well, feel free to email me, and I'll be happy to talk about my journey as well as several things that I learned along the way. 
 
-## Reading
+## Hobbies
 
 I find it very meaningful to read the classics, as well as blogs like [Astralcodexten](https://www.astralcodexten.com/) and [Numb at the Lodge](https://samkriss.substack.com/). Also a huge fan of history podcasts: I've listened to everything that Mike Duncan has created. Listening to his [The History of Rome](https://en.wikipedia.org/wiki/The_History_of_Rome_(podcast)) podcast in grad school, and then going to Rome to actually see those sights in person, is one of my core memories.
 
