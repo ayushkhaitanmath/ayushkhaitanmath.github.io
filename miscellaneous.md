@@ -23,8 +23,6 @@ Always happy to talk books, and get recommendations!
 
 ## Academic harrassment
 
-Academic harrassment can be a uniquely debilitating and traumatic experience. I have been extremely lucky to get helpful and amazing friends and mentors who could support and guide me at difficult times, and I would like to return the favor by offering my help and advice in the same regard. 
-
-If you are currently facing harrassment, feel free to email me. I will be happy to set up a meeting to offer a listening ear, as well as any guidance about relevant resources that I may be able to provide. 
+Academic harrassment can be a uniquely debilitating and traumatic experience. If you are currently facing harrassment, feel free to email me. I will be happy to set up a meeting to offer a listening ear, as well as any guidance about relevant resources that I may be able to provide. 
 
 I would also like to take this opportunity point you to the awesome [Ishan Mata](https://ishanmata.github.io/), who has done extremely important work in this regard by filing legal cases concerning alleged harassment cases, often going into his own pockets to do so. 
