@@ -9,7 +9,7 @@ permalink: /events
 ## Upcoming
 
 - Travels to NeurIPS (Atlanta) and SLMath.
-- Talks at Princeton PLI, Notre Dame, Stony Brook, Columbia and the Center for Communications Research, Princeton. 
+- Talks at Princeton PLI, Notre Dame, Stony Brook, Columbia, and CCR, Princeton. 
 
 ## Previous
 - **[Oct 2, 2026]**: Our pre-prints on formalizing the proof of the Poincaré conjecture, as well as the Geometrization conjecture are now out. Also, three papers accepted in the NeurIPS Math+AI workshop. See you in Atlanta!
