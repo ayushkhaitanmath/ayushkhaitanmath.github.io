@@ -15,7 +15,7 @@ I completed my PhD in Mathematics at Penn State University, where my doctoral re
 
 [Resume]({{ '/resume-oct2.pdf' | relative_url }}) · [ayush.khaitan@princeton.edu](mailto:ayush.khaitan@princeton.edu)
 
-I co-organize an AI and Math seminar at Princeton. I previously co-organized the [AI and Math seminar](https://ai-math-seminar.github.io/seminar/) at Rutgers. 
+I co-organize an AI and Math seminar at Princeton. I previously co-organized the [AI and Math seminar](https://ai-math-seminar.github.io/seminar/) at Rutgers. I am also an editor of the [Journal of Mathematics and Artificial Intelligence](https://i-aims.org/). 
 
 This [guide to AI tools](https://ai-tools-rutgers.github.io/) helps Rutgers academics with no prior programming experience run code on GPUs and access other AI tools.
 
