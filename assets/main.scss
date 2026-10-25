@@ -20,3 +20,24 @@ $grey-color-dark: #39443f;
   --site-link: #{$brand-color};
   --site-link-underline: rgba(50, 102, 95, .35);
 }
+
+// Collapsible articles on the Writings page: the "Read more" toggle
+// disappears once opened so the article reads continuously.
+details.read-more > summary {
+  cursor: pointer;
+  color: var(--site-link);
+  margin-bottom: $spacing-unit;
+  list-style: none;
+}
+
+details.read-more > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.read-more > summary::after {
+  content: " \2192";
+}
+
+details.read-more[open] > summary {
+  display: none;
+}
