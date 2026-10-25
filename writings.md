@@ -13,7 +13,7 @@ permalink: /writings
 The first thing that one may do is get a subscription to a good LLM. The strongest models that come to mind are ChatGPT, Claude and Gemini. All three have $20/month subscriptions as well as $200/month subscriptions. If you are mainly buying subscriptions for understanding mathematical documents, the $20 subscription is sufficient. However, if you want access to better reasoning models or are doing a lot of coding with AI agents, you may want to invest in the $200/month subscription. Note that OpenAI also offers access to its best models to academics free of cost. You may find more information about it [here](https://openai.com/index/chatgpt-for-academic-researchers/). 
 
 <details class="read-more" markdown="1">
-<summary>Read more</summary>
+<summary>Read the rest of this entry</summary>
 
 ### Access to open source models
 
