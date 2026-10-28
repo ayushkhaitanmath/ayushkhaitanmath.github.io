@@ -6,6 +6,8 @@ permalink: /writings/ai-tools-for-math-research/
 
 <p><a href="{{ '/writings/' | relative_url }}">Back to writings</a></p>
 
+<article class="writing-article" markdown="1">
+
 # How to start out with AI tools for math research
 
 ### Access to frontier models
@@ -23,3 +25,5 @@ In case you want access to better reasoning models that you're unable to run on 
 Note that although ChatGPT, Claude and Gemini all offer extremely strong reasoning capabilities, the biggest wins come from combining their capabilities. One way to do this is to make them work together, by making them read and critique each others' answers for several rounds. You may do so through [Claude Tuner](https://claudetuner.com/multiai/). If you have subscriptions to any subset of these three models, you may log into your accounts, and then go to "Debate" mode on Claude Tuner. Now if you ask a question in this mode, you'll have a moderator (say ChatGPT) moderating a debate between two or more models for up to 50 rounds (you can raise this limit). You can of course do this through a personalized harness as well, although Claude Tuner is much easier to use. Note that you only need subscriptions, and not API access, to use it.
 
 All in all, the best way to start with LLMs for math research is to get access to a good model, and start plugging away. Hope that this article has been useful!
+
+</article>

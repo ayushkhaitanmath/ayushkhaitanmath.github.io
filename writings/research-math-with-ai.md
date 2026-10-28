@@ -6,6 +6,8 @@ permalink: /writings/research-math-with-ai/
 
 <p><a href="{{ '/writings/' | relative_url }}">Back to writings</a></p>
 
+<article class="writing-article" markdown="1">
+
 # How to solve your favorite research math problem with AI
 
 It is common knowledge now that AI is extremely powerful, perhaps even super-human, at solving research-level math problems. ChatGPT, only in the last 2 years, has gone from barely being able to solve high school math problems to fully resolving and formalizing Millennium Prize problems. However, this might contrast with your own experience of trying and failing to solve research level math problems, even with the best models like GPT Astra or Claude Fable. Given below are some tips on how to get the best out of your subscription for solving your favorite problems.
@@ -33,3 +35,5 @@ This is perhaps most important. More likely than not, your model will fail to so
 This was repeatedly the pattern that was observed in the [reasoning walkthrough](https://cdn.openai.com/pdf/reasoning-walkthroughs.pdf) put out by OpenAI earlier this year, explaining how their models were able to solve 10 big problems in Mathematics. Forcing your models to be precise in their predictions, especially if they are thoroughly reasoned and tested, can be very powerful.
 
 These are some of the observations that I've had while trying to solve research math questions with frontier models. I'll be grateful for feedback and/or corrections. Thanks!
+
+</article>

@@ -41,3 +41,33 @@ details.read-more > summary::after {
 details.read-more[open] > summary {
   display: none;
 }
+
+// Give standalone writings a more editorial feel without changing the rest of the site.
+.writing-article {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.08rem;
+  line-height: 1.8;
+}
+
+.writing-article h1 {
+  color: var(--site-ink);
+  font-family: "Avenir Next", Avenir, "Helvetica Neue", sans-serif;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+.writing-article h3 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+  padding-left: 0.8rem;
+  border-left: 4px solid #c47b5a;
+  color: #a45d3f;
+  font-family: "Avenir Next", Avenir, "Helvetica Neue", sans-serif;
+  font-size: 1.25rem;
+  letter-spacing: 0.01em;
+  line-height: 1.35;
+}
+
+.writing-article p {
+  margin-bottom: 1.3rem;
+}
