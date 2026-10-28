@@ -37,6 +37,8 @@ This was repeatedly the pattern that was observed in the [reasoning walkthrough]
 
 These are some of the observations that I've had while trying to solve research math questions with frontier models. I'll be grateful for feedback and/or corrections. Thanks! 
 
+</details>
+
 
 ## How to start out with AI tools for math research
 
