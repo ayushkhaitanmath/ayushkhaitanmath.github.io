@@ -4,7 +4,7 @@ title: How to solve your favorite research math problem with AI
 permalink: /writings/research-math-with-ai/
 ---
 
-<p><a href="{{ '/writings/' | relative_url }}">Back to writings</a></p>
+<p><a href="{{ '/writings' | relative_url }}">Back to writings</a></p>
 
 <article class="writing-article" markdown="1">
 

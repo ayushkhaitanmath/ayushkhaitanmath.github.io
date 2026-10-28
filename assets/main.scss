@@ -50,7 +50,7 @@ details.read-more[open] > summary {
 }
 
 .writing-article h1 {
-  color: var(--site-ink);
+  color: var(--site-link);
   font-family: "Avenir Next", Avenir, "Helvetica Neue", sans-serif;
   letter-spacing: -0.02em;
   line-height: 1.2;
@@ -60,8 +60,8 @@ details.read-more[open] > summary {
   margin-top: 2.2rem;
   margin-bottom: 0.8rem;
   padding-left: 0.8rem;
-  border-left: 4px solid #c47b5a;
-  color: #a45d3f;
+  border-left: 4px solid var(--site-link);
+  color: var(--site-link);
   font-family: "Avenir Next", Avenir, "Helvetica Neue", sans-serif;
   font-size: 1.25rem;
   letter-spacing: 0.01em;

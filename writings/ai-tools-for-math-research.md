@@ -4,7 +4,7 @@ title: How to start out with AI tools for math research
 permalink: /writings/ai-tools-for-math-research/
 ---
 
-<p><a href="{{ '/writings/' | relative_url }}">Back to writings</a></p>
+<p><a href="{{ '/writings' | relative_url }}">Back to writings</a></p>
 
 <article class="writing-article" markdown="1">
 
