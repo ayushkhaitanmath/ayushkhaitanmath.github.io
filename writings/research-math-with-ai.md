@@ -2,6 +2,7 @@
 layout: default
 title: How to solve your favorite research math problem with AI
 permalink: /writings/research-math-with-ai/
+description: Practical strategies for using frontier AI models to explore and solve research-level mathematics problems.
 ---
 
 <p><a href="{{ '/writings' | relative_url }}">Back to writings</a></p>

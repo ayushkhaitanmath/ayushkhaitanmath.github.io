@@ -1,0 +1,13 @@
+{% assign page_description = page.description | default: site.description | default: site.title %}
+{% assign page_url = page.url | absolute_url %}
+
+<meta name="description" content="{{ page_description | escape }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+<meta name="twitter:description" content="{{ page_description | escape }}">
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+<meta property="og:description" content="{{ page_description | escape }}">
+<meta property="og:url" content="{{ page_url }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">

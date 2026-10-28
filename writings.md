@@ -2,6 +2,7 @@
 layout: default
 title: Writings
 permalink: /writings
+description: Articles and notes on mathematics, AI, and mathematical research.
 ---
 
 # Writings

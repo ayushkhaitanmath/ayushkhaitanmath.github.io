@@ -2,6 +2,7 @@
 layout: default
 title: How to start out with AI tools for math research
 permalink: /writings/ai-tools-for-math-research/
+description: A guide to getting started with frontier and open-source AI tools for mathematical research.
 ---
 
 <p><a href="{{ '/writings' | relative_url }}">Back to writings</a></p>
