@@ -12,7 +12,7 @@ permalink: /publications
   <!-- Paper: mini-Lean-agent -->
   <article class="pub">
     <h2 class="pub__title"><em>Do Theorem Provers Need Theorem-Proving Agents? mini-Lean-agent: A Coding-Agent Baseline for Lean</em></h2>
-    <div class="pub__authors"><strong>Authors:</strong> Tomas Ortega, Simon Park, Ayush Khaitan, Liam Fowl, <a href="https://sites.math.rutgers.edu/~alexk/">Alex Kontorovich</a>, <a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a></div>
+    <div class="pub__authors"><strong>Authors:</strong> <a href="https://tomasortega.net/">Tomas Ortega</a>, Simon Park, Ayush Khaitan, <a href="https://lhfowl.github.io/">Liam Fowl</a>, <a href="https://sites.math.rutgers.edu/~alexk/">Alex Kontorovich</a>, <a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a></div>
     <div class="pub__meta">6th Workshop on Mathematical Reasoning and AI (MATH-AI), NeurIPS 2026 &nbsp;•&nbsp; <a href="https://arxiv.org/abs/2610.17331">arXiv:2610.17331</a></div>
     <div class="pub__summary">
       We introduce mini-Lean-agent, a deliberately minimal agent for Lean whose only model-visible tool is bash, with a separate trusted evaluator checking the final output. On the Putnam 2025 benchmark it solves 7/12 problems with Gemini 3.8 Flash (versus 4/12 for AxProverBase), and all 12/12 with Astra at an average cost of $1.28 per problem. This suggests that a generic coding agent should be the standard baseline for evaluating theorem-proving infrastructure.
@@ -22,7 +22,7 @@ permalink: /publications
   <!-- Paper: Semantic equivalence in formalization -->
   <article class="pub">
     <h2 class="pub__title"><em>Improving semantic equivalence in research-level math formalization</em></h2>
-    <div class="pub__authors"><strong>Authors:</strong> Ayush Khaitan, Liam Fowl, Tomas Ortega, <a href="https://sites.math.rutgers.edu/~alexk/">Alex Kontorovich</a>, <a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a></div>
+    <div class="pub__authors"><strong>Authors:</strong> Ayush Khaitan, <a href="https://lhfowl.github.io/">Liam Fowl</a>, <a href="https://tomasortega.net/">Tomas Ortega</a>, <a href="https://sites.math.rutgers.edu/~alexk/">Alex Kontorovich</a>, <a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a></div>
     <div class="pub__meta">6th Workshop on Mathematical Reasoning and AI (MATH-AI), NeurIPS 2026 &nbsp;•&nbsp; <a href="https://openreview.net/forum?id=OFimGMpfHW">OpenReview</a></div>
     <div class="pub__summary">
       A Lean formalization is never a word-for-word translation of a paper: it changes definitions, strengthens hypotheses and adds lemmas the paper never mentions. We collect 4,076 audited examples of such departures from Lean projects formalizing research-level mathematics, and show that training on them nearly doubles complete proofs (11% to 20%) and raises the share of faithful statements from 30% to 39%.
@@ -32,7 +32,7 @@ permalink: /publications
   <!-- Paper: 100-conjecture calibration study -->
   <article class="pub">
     <h2 class="pub__title"><em>Does a Frontier Large Language Model Know What It Can Solve? A 100-Conjecture Calibration Study</em></h2>
-    <div class="pub__authors"><strong>Authors:</strong> Ayush Khaitan, Liam Fowl, Tomas Ortega, <a href="https://sites.math.rutgers.edu/~alexk/">Alex Kontorovich</a>, <a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a></div>
+    <div class="pub__authors"><strong>Authors:</strong> Ayush Khaitan, <a href="https://lhfowl.github.io/">Liam Fowl</a>, <a href="https://tomasortega.net/">Tomas Ortega</a>, <a href="https://sites.math.rutgers.edu/~alexk/">Alex Kontorovich</a>, <a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a></div>
     <div class="pub__meta">6th Workshop on Mathematical Reasoning and AI (MATH-AI), NeurIPS 2026 &nbsp;•&nbsp; <a href="https://openreview.net/forum?id=CT9WOChlRl">OpenReview</a></div>
     <div class="pub__summary">
       We test how a frontier LLM's stated confidence tracks its actual success on 87 audited open conjectures in geometric analysis. The model was strongly overconfident (mean stated probability 0.617 versus an observed success rate of 0.103), yet its probabilities still ranked problems in the right direction (AUROC 0.714). All proofs were formalized in Lean and checked for semantic equivalence with their informal statements.
