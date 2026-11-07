@@ -9,9 +9,10 @@ permalink: /events
 ## Upcoming
 
 - Travels to NeurIPS (Atlanta) and SLMath.
-- Talks at Princeton PLI, Notre Dame, Stony Brook, Columbia, and CCR, Princeton. 
+- Talks at Princeton PLI, Notre Dame, Stony Brook and CCR, Princeton. 
 
 ## Previous
+- **[Oct 30, 2026]**: Spoke at the Geometric Analysis seminar / AI x Math seminar at Columbia University.
 - **[Oct 2, 2026]**: Our pre-prints on formalizing the proof of the Poincaré conjecture, as well as the Geometrization conjecture are now out. Also, three papers accepted in the NeurIPS Math+AI workshop. See you in Atlanta!
 - **[Sep 8-11, 2026]**: Attended the Geometry of Machine Learning conference at CMSA, Harvard.
 - **[Jun 10, 2026]**: Recipient of the AMS-Simons Travel Grant, 2026-2028 (Geometric Analysis). 
