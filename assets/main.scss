@@ -69,3 +69,18 @@ details.read-more[open] > summary {
 .writing-article p {
   margin-bottom: 1.3rem;
 }
+
+// Schedule tables on the AI and Math Seminar page.
+.seminar-schedule {
+  margin-bottom: $spacing-unit * 1.5;
+}
+
+.seminar-schedule th:first-child,
+.seminar-schedule td:first-child {
+  white-space: nowrap;
+}
+
+.seminar-schedule .tba {
+  color: var(--site-muted);
+  font-style: italic;
+}
