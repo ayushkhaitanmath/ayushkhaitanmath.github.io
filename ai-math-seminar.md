@@ -7,15 +7,16 @@ description: Schedule of the AI and Math seminar at Princeton University, 2026-2
 
 # AI and Math Seminar
 
-I co-organize the AI and Math seminar at Princeton University. The schedule for the 2026–27 academic year is below. Talk titles will be added as they are announced.
+[Sanjeev Arora](https://www.cs.princeton.edu/~arora/), [Liam Fowl](https://lhfowl.github.io/), [Tomàs Ortega](https://tomasortega.net/) and I co-organize the AI and Math seminar at Princeton University. The schedule for the 2026–27 academic year is below. Talk titles will be added as they are announced.
+
+Email [ayush.khaitan@princeton.edu](mailto:ayush.khaitan@princeton.edu) to be added to the mailing list.
 
 ## Fall 2026
 
 | Date | Speaker | Title |
 |:-----|:--------|:------|
-| Tue, Oct 13 | Patrick Shafto *(tentative)* | <span class="tba">TBA</span> |
-| Tue, Oct 27 | Liam Fowl | <span class="tba">TBA</span> |
-| Tue, Nov 24 | Charles Arnal | <span class="tba">TBA</span> |
+| Tue, Oct 27 | Liam Fowl | The Rapidly Evolving Landscape of AI for Math: From Natural Language Reasoning to Lean |
+| Tue, Nov 24 | Charles Arnal | Maths in the age of AI |
 | Tue, Dec 1 | Jaume De Dios | <span class="tba">TBA</span> |
 | Thu, Dec 3 | Mario Szegedy | <span class="tba">TBA</span> |
 {: .seminar-schedule}
