@@ -7,9 +7,9 @@ description: Schedule of the AI and Math seminar at Princeton University, 2026-2
 
 # AI and Math Seminar
 
-[Sanjeev Arora](https://www.cs.princeton.edu/~arora/), [Liam Fowl](https://lhfowl.github.io/), [Tomàs Ortega](https://tomasortega.net/) and I co-organize the AI and Math seminar at Princeton University. The schedule for the 2026–27 academic year is below. Talk titles will be added as they are announced.
+[Sanjeev Arora](https://www.cs.princeton.edu/~arora/), [Liam Fowl](https://lhfowl.github.io/), [Tomàs Ortega](https://tomasortega.net/) and I co-organize the AI and Math seminar at Princeton University. The schedule for the 2026–27 academic year is below. Talk titles will be added as they are announced. All talks are held in Room 103, Bendheim House, and streamed on Zoom.
 
-Email [ayush.khaitan@princeton.edu](mailto:ayush.khaitan@princeton.edu) to be added to the mailing list.
+Email me at [ayush.khaitan@princeton.edu](mailto:ayush.khaitan@princeton.edu) to be added to the mailing list.
 
 ## Fall 2026
 
