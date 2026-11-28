@@ -8,10 +8,13 @@ permalink: /events
 
 ## Upcoming
 
-- Travels to NeurIPS (Atlanta) and SLMath.
-- Talks at Princeton PLI, Notre Dame, Stony Brook and CCR, Princeton. 
+- Travels to NeurIPS (Atlanta) and SLMath (Berkeley).
 
 ## Previous
+- **[Nov 25, 2026]**: [Ben Chow](https://mathweb.ucsd.edu/~bechow/), Yuan Liao, [Ziyang Qin](https://qinziyang.com/) and I have been awarded the inaugural Justin Sun Prize and MathDB prize for our Lean formalization of the proof of the Poincaré conjecture. [Press release](https://www.financialcontent.com/article/newsfile-2026-11-26-justin-sun-prize-and-mathdb-award-first-prize-for-lean-formalization-of-the-poincar-conjecture).
+- **[Nov 24, 2026]**: Spoke at the Center for Communications Research (CCR), Princeton: "Studying geometric analysis with computational tools".
+- **[Nov 17, 2026]**: Spoke at the Geometry/Topology seminar at Stony Brook University: "Computing renormalized curvature integrals and conformal invariants of submanifolds".
+- **[Nov 12, 2026]**: Spoke at the Geometric Analysis seminar at the University of Notre Dame: "[Studying problems in geometric analysis with computational tools](https://math.nd.edu/events/2026/11/12/geometric-analysis-seminar-ayush-khaitan-princeton-university/)".
 - **[Oct 30, 2026]**: Spoke at the Geometric Analysis seminar / AI x Math seminar at Columbia University.
 - **[Oct 2, 2026]**: Our pre-prints on formalizing the proof of the Poincaré conjecture, as well as the Geometrization conjecture are now out. Also, three papers accepted in the NeurIPS Math+AI workshop. See you in Atlanta!
 - **[Sep 8-11, 2026]**: Attended the Geometry of Machine Learning conference at CMSA, Harvard.
